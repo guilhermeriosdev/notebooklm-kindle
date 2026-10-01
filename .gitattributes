@@ -1,0 +1,7 @@
+# Normaliza quebras de linha: LF no repositório para todo arquivo de texto.
+* text=auto eol=lf
+
+*.py   text eol=lf
+*.lua  text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
