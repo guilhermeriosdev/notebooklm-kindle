@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dados locais da ponte (token, chave da API, cadernos, documentos gerados)
+bridge/data/
+
+# Plugin gerado sem Kindle conectado
+dist/
+
+# Sistema
+.DS_Store
+Thumbs.db
